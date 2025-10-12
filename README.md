@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me:
+## 🚀 About Me:
 - 🌱 Currently exploring **AI, Web Frameworks,Cloud computing and DevOps Automation**
 - 🧩 Love connecting **hardware and software** for real-world solutions  
 - ⚙️ Building with **Python, Django, React, Node.js, and more** 
@@ -17,16 +17,16 @@
 
 ---
 
-### 🌐 Connect With Me:
+## 🌐 Connect With Me:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254115760476)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the___user_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sajaadiqbalkarim7@gmail.com)
 
 ---
 
-### 🧰 Tech Stack:
+## 🧰 Tech Stack:
 
-#### 💻 Programming & Frameworks
+### 💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-#### 🧠 Databases,cloud & Tools
+### 🧠 Databases,cloud & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-#### ⚙️ DevOps, Networking,AI & OS
+### ⚙️ DevOps, Networking,AI & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -74,7 +74,7 @@
 
 ---
 
-#### 🧰 Design, Productivity & Extras
+### 🧰 Design, Productivity & Extras
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
@@ -91,12 +91,21 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Mono-eyeddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mono-eyeddev&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mono-eyeddev&theme=tokyonight&hide_border=true&border_radius=15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mono-eyeddev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mono-eyeddev&theme=tokyo-night&hide_border=true)
+
+
+---
+## 🏆 GitHub Trophies:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mono-eyeddev&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
-### 🎯 Fun Fact:
+## 🎯 Fun Fact:
 > “Be a better version of yourself daily, Do not compare yourself to other(IMPROVE)”
 >"If it works do not touch it"
 >"Always learning, always debugging — sometimes both at once"
