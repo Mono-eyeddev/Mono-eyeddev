@@ -104,5 +104,5 @@
 
 
 ## 🎯 Fun Fact:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&width=600&lines=Be+a+better+version+of+yourself+daily+💪;If+it+works+do+not+touch+it+⚙️;Always+learning,+always+debugging,+sometimes+both+at+once+😅)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&width=600&lines=Be+a+better+version+of+yourself+daily+💪,+Do+not+compare+yourself+to+others+(IMPROVE);If+it+works+do+not+touch+it+⚙️;Always+learning,+always+debugging,+sometimes+both+at+once+😅)](https://git.io/typing-svg)
 
