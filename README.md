@@ -98,7 +98,10 @@
 ---
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mono-eyeddev&theme=tokyonight&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mono-eyeddev&theme=matrix&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies"/>
+</p>
+
 
 ---
 
