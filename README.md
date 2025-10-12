@@ -93,7 +93,7 @@
 ![Mono-eyeddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mono-eyeddev&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mono-eyeddev&theme=tokyonight&hide_border=true&border_radius=15)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mono-eyeddev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mono-eyeddev&theme=tokyo-night&hide_border=true)
+
 
 ---
 
@@ -102,7 +102,7 @@
 
 ---
 
+
 ## 🎯 Fun Fact:
-> 🌱 “Strive to outgrow yesterday’s version of yourself.”  
-> ⚙️ “If it works, refine it — don’t just leave it.”  
-> 🧩 “Always learning, always debugging — sometimes both at once.”
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&width=600&lines=Be+a+better+version+of+yourself+daily+💪;If+it+works+do+not+touch+it+⚙️;Always+learning,+always+debugging+—+sometimes+both+at+once+😅)](https://git.io/typing-svg)
+
