@@ -10,7 +10,8 @@
 ### 🚀 About Me:
 - 🌱 Currently exploring **AI, Web Frameworks,Cloud computing and DevOps Automation**
 - 🧩 Love connecting **hardware and software** for real-world solutions  
-- ⚙️ Building with **Python, Django, React, Node.js, and more**  
+- ⚙️ Building with **Python, Django, React, Node.js, and more** 
+- 🧑‍💻 Former Manager turned full-Stack developer, I blend technical execution with strategic thinking and team leadership.
 - ☕ Turning Khat and curiosity into working prototypes (eventually)  
 - 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware,cybersecurity or Networking**  
 
@@ -97,4 +98,5 @@
 
 ### 🎯 Fun Fact:
 > “Be a better version of yourself daily, Do not compare yourself to other(IMPROVE)”
-"If it works do not touch it"
+>"If it works do not touch it"
+>"Always learning, always debugging — sometimes both at once"
