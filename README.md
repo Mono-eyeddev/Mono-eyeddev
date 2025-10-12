@@ -8,12 +8,12 @@
 ---
 
 ## 🚀 About Me:
-- 🌱 Currently exploring **AI, Web Frameworks,Cloud computing and DevOps Automation**
+- 🌱 Currently exploring **AI, Web Frameworks, Cloud Computing, and DevOps Automation**
 - 🧩 Love connecting **hardware and software** for real-world solutions  
 - ⚙️ Building with **Python, Django, React, Node.js, and more** 
-- 🧑‍💻 Former Manager turned full-Stack developer, I blend technical execution with strategic thinking and team leadership.
-- ☕ Turning Khat and curiosity into working prototypes (eventually)  
-- 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware,cybersecurity or Networking**  
+- 🧑‍💻 Former Manager turned Full-Stack Developer — blending **technical execution** with **strategic leadership**
+- 🌿 Turning **miraa and curiosity** into working prototypes (eventually)  
+- 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware, Cybersecurity, or Networking**  
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 🧠 Databases,cloud & Tools
+### 🧠 Databases, Cloud & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -58,10 +58,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
 ---
 
-### ⚙️ DevOps, Networking,AI & OS
+### ⚙️ DevOps, Networking, AI & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -88,7 +87,6 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Hardware Repair](https://img.shields.io/badge/Hardware_Repair-2E8B57?style=for-the-badge&logo=windows&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats:
@@ -97,15 +95,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mono-eyeddev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mono-eyeddev&theme=tokyo-night&hide_border=true)
 
-
 ---
-## 🏆 GitHub Trophies:
 
+## 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mono-eyeddev&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
 ## 🎯 Fun Fact:
-> “Be a better version of yourself daily, Do not compare yourself to other(IMPROVE)”
->"If it works do not touch it"
->"Always learning, always debugging — sometimes both at once"
+> 🌱 “Strive to outgrow yesterday’s version of yourself.”  
+> ⚙️ “If it works, refine it — don’t just leave it.”  
+> 🧩 “Always learning, always debugging — sometimes both at once.”
