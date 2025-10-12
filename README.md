@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently exploring **AI, Web Frameworks, and DevOps Automation**
+- 🌱 Currently exploring **AI, Web Frameworks,Cloud computing and DevOps Automation**
 - 🧩 Love connecting **hardware and software** for real-world solutions  
 - ⚙️ Building with **Python, Django, React, Node.js, and more**  
-- ☕ Turning caffeine and curiosity into working prototypes (eventually)  
-- 💬 Ask me about **Full-Stack Development, Machine Learning, or Networking**  
+- ☕ Turning Khat and curiosity into working prototypes (eventually)  
+- 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware,cybersecurity or Networking**  
 
 ---
 
@@ -65,7 +65,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
-[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F9D58?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
