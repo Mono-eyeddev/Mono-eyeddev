@@ -11,7 +11,7 @@
 - 🌱 Currently exploring **AI, Web Frameworks, Cloud Computing, and DevOps Automation**
 - 🧩 Love connecting **hardware and software** for real-world solutions  
 - ⚙️ Building with **Python, Django, React, Node.js, and more** 
-- 🧑‍💻 Former Manager turned Full-Stack Developer — blending **technical execution** with **strategic leadership**
+- 🧑‍💻 Former Manager turned Full-Stack Developer ,blending **technical execution** with **strategic leadership**
 - 🌿 Turning **miraa and curiosity** into working prototypes (eventually)  
 - 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware, Cybersecurity, or Networking**  
 
@@ -104,5 +104,5 @@
 
 
 ## 🎯 Fun Fact:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&width=600&lines=Be+a+better+version+of+yourself+daily+💪;If+it+works+do+not+touch+it+⚙️;Always+learning,+always+debugging+—+sometimes+both+at+once+😅)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&width=600&lines=Be+a+better+version+of+yourself+daily+💪;If+it+works+do+not+touch+it+⚙️;Always+learning,+always+debugging,+sometimes+both+at+once+😅)](https://git.io/typing-svg)
 
