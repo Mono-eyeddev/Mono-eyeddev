@@ -14,7 +14,7 @@
 - ⚙️ Building with **Python, Django, React, Node.js, and more** 
 - 🧑‍💻 Former Manager turned Full-Stack Developer ,blending **technical execution** with **strategic leadership**
 - 🌿 Turning **Khat and curiosity** into working prototypes (eventually)  
-- 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware, Cybersecurity, or Networking**  
+- 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware, Cybersecurity,Networking and Graphic design**  
 
 ---
 
