@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey there! I'm <strong>Sajaad Iqbal</strong></h2>
 
 <p align="center">
-  💻 Developer | 🧠 AI Enthusiast | ⚙️ Full-Stack & Hardware Wizard <br>
+  💻 Developer | 🧠 AI Enthusiast | ⚙️ Full-Stack web developer | 💻🔧 Hardware Wizard | 💼 Tech Entrepreneur (Laptops, Desktops, CCTV, printers & computer Accessories) <br>
   Passionate about building intelligent systems, crafting sleek web apps, and exploring hardware to the core.
 </p>
 
