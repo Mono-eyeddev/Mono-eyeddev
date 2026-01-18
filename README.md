@@ -8,13 +8,13 @@
 
 ---
 
-## 🚀 About Me:
-- 🌱 Currently exploring **AI, Web Frameworks, Cloud Computing, and DevOps Automation**
-- 🧩 Love connecting **hardware and software** for real-world solutions  
-- ⚙️ Building with **Python, Django, React, Node.js, and more** 
-- 🧑‍💻 Former Manager turned Full-Stack Developer ,blending **technical execution** with **strategic leadership**
-- 🌿 Turning **Khat and curiosity** into working prototypes (eventually)  
-- 💬 Ask me about **Full-Stack Development, Machine Learning, Hardware, Cybersecurity,Networking and Graphic design**  
+## About Me:
+- Currently exploring **AI, Web Frameworks, Cloud Computing, and DevOps Automation**
+- Love connecting **hardware and software** for real-world solutions  
+- Building with **Python, Django, React, Node.js, and more** 
+- Former Manager turned Full-Stack Developer ,blending **technical execution** with **strategic leadership**
+- Turning **Khat and curiosity** into working prototypes (eventually)  
+- Ask me about **Full-Stack Development, Machine Learning, Hardware, Cybersecurity,Networking and Graphic design**  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tech Stack:
+## Tech Stack:
 
 ### 💻 Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-### 🧠 Databases, Cloud & Tools
+### Databases, Cloud & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-### ⚙️ DevOps, Networking, AI & OS
+### DevOps, Networking, AI & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -74,7 +74,7 @@
 
 ---
 
-### 🧰 Design, Productivity & Extras
+### Design, Productivity & Extras
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![Mono-eyeddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mono-eyeddev&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mono-eyeddev&theme=tokyonight&hide_border=true&border_radius=15)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mono-eyeddev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
